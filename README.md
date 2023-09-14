@@ -10,38 +10,45 @@ Hi there 👋🏻, Welcome!
   Junior Java Developer
 </h3>
 
+<div align="center">
+<p>
+<a href="mailto:bruno.trabalhos@outlook.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/bruno-angelo-089a62243/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+</div>
 
-Olá! Meu nome é Bruno, sou noivo, cristão e tenho 25 anos, atualmente estou cursando o Santander Bootcamp 2023 - Backend Java. ☕♨️
+***
+### Hello! 👋
 
-Tenho uma grande paixão na linguagem desde que a conheci no primeiro Bootcamp que realizei o Programador de Software Iniciante em 2021, e desde lá venho me aprimorando na área realizando cursos EAD. ☕💓
+My name is Bruno and I am passionate about programming. Although I currently have no academic background, I am committed to learning and exploring the world of technology. I'm interested in finding out where to go professionally with my programming knowledge.
 
-Atualmente sou auxiliar adminstrativo na área de logística e anseio muito migrar minha área profissional. 🧑‍💻
+I am currently looking to make a career transition, migrating from a previous professional field to the world of technology. I'm looking for my first opportunity as a developer.
 
-Gosto muito de jogar tanto em console como em PC, assistir filmes/séries/desenhos, amante da natureza e pai de dois pets, um gato (Harry) e uma cachorra (Jully).🎮
+My programming journey started with the Bootcamp for beginner software programmers, where I immersed myself in the world of coding. Next, I explored algorithm concepts and improved my skills in basic Java, which was the language I most identified with.
 
-## Vamos Conectar
+My mission is to use my passion for technology to create solutions that can improve people's quality of life and make the world a better place. I believe that programming has the power to turn ideas into reality and I am committed to making a difference through software development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-059?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/bruno-angelo-089a62243/)
+I am currently focused on improving my skills by taking an advanced Java course and participating in the Bootcamp Back End Santander 2023, where I am acquiring valuable knowledge.
 
-[![Instagram](https://img.shields.io/badge/Instagram-059?style=for-the-badge&logo=instagram)](https://www.instagram.com/filhododono_12)
+If you want to know more about me or have any questions, feel free to get in touch. 🚀
 
-[![GitHub](https://img.shields.io/badge/github-059?style=for-the-badge&logo=github)](https://github.com/BrunoAngelo12)
+## 🛠 &nbsp;Tech Stack
 
-[![dio](https://img.shields.io/badge/perfil_dio-059?style=for-the-badge&logo=dio)](https://www.dio.me/users/bruno_trabalhos)
-[![dio](https://lp.dio.me/wp-content/uploads/2023/04/diologo.png)](https://www.dio.me/users/bruno_trabalhos)
+### 👩‍💻 &nbsp;Back-End
 
-## Habilidades
-![Java](https://img.shields.io/badge/Java-059?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-![git](https://img.shields.io/badge/git-059?style=for-the-badge&logo=git)
+### 👩‍💻 &nbsp;Versioning
 
-![git](https://img.shields.io/badge/github-059?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoAngelo12&bg_color=059&border_color=000&title_color=FFF&text_color=FFF)
+### 👩‍💻 &nbsp;Host
 
-## GitHub Status
+![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAngelo12&theme=transparent&bg_color=059&border_color=000C&show_icons=true&icon_color=000&title_color=FFF&text_color=FFF)
-
-## Principais Projetos
+## 📌 &nbsp;Pinned Repositories
 [![jogoDaVelha](https://img.shields.io/badge/Jogo_da_velha_-059?style=for-the-badge&logo=java)](https://github.com/BrunoAngelo12/jogodavelha)
+
+## 📊 &nbsp;Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAngelo12&theme=transparent&bg_color=973&border_color=000C&show_icons=true&icon_color=000&title_color=FFF&text_color=FFF)
