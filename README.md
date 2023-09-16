@@ -7,7 +7,7 @@ Hi there 👋🏻, Welcome!
 </div>
 
 <h3 align="center">
-  Junior Java Developer
+  Java Developer
 </h3>
 
 <div align="center">
