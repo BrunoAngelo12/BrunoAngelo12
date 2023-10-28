@@ -25,13 +25,13 @@ My name is Bruno and I am passionate about programming. Although I currently hav
 
 I am currently looking to make a career transition, migrating from a previous professional field to the world of technology. I'm looking for my first opportunity as a developer.
 
-My programming journey started with the Bootcamp for beginner software programmers, where I immersed myself in the world of coding. Next, I explored algorithm concepts and improved my skills in basic Java, which was the language I most identified with.
+My programming journey started with the Bootcamp for beginner software programmers, where I immersed myself in the world of coding. I then explored algorithm concepts and improved my skills in basic Java and after knowing the basis of the language I decided to take the Santander Bootcamp Backend Java 2023. I chose Java because it was the language with which I most identified.
 
 My mission is to use my passion for technology to create solutions that can improve people's quality of life and make the world a better place. I believe that programming has the power to turn ideas into reality and I am committed to making a difference through software development.
 
-I am currently focused on improving my skills by taking an advanced Java course and participating in the Bootcamp Back End Santander 2023, where I am acquiring valuable knowledge.
+I'm currently focused on improving my skills by taking an advanced Java course to learn the ins and outs of the language, where I'm gaining valuable knowledge.
 
-If you want to know more about me or have any questions, feel free to get in touch. 🚀
+If you want to know more about me or have any questions, feel free to get in touch 🚀
 
 ## 🛠 &nbsp;Tech Stack
 
