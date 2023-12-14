@@ -21,17 +21,13 @@ Hi there 👋🏻, Welcome!
 ***
 ### Hello! 👋
 
-My name is Bruno and I am passionate about programming. Although I currently have no academic background, I am committed to learning and exploring the world of technology. I'm interested in finding out where to go professionally with my programming knowledge.
+My name is Bruno, and my passion for programming has sparked a journey that now shapes my path as I pursue a degree in Computer Science. Despite my academic involvement, my true passion lies in programming. I am determined to acquire comprehensive knowledge in the field of technology, seeking my first opportunity as a developer and making a career transition into the programming world.
 
-I am currently looking to make a career transition, migrating from a previous professional field to the world of technology. I'm looking for my first opportunity as a developer.
+Since the early steps in this fascinating field, I took part in a Bootcamp for beginner programmers, immersing myself in the coding universe. After solidifying my skills in basic Java, I participated in the Santander Bootcamp Backend Java 2023 to refine my abilities, choosing Java as my preferred language.
 
-My programming journey started with the Bootcamp for beginner software programmers, where I immersed myself in the world of coding. I then explored algorithm concepts and improved my skills in basic Java and after knowing the basis of the language I decided to take the Santander Bootcamp Backend Java 2023. I chose Java because it was the language with which I most identified.
+I deeply believe in the transformative power of technology. My mission is to apply this passion for programming to create solutions that enhance people's quality of life, contributing to making the world a better place. I am committed to acquiring knowledge that allows me to make a positive impact through technology.
 
-My mission is to use my passion for technology to create solutions that can improve people's quality of life and make the world a better place. I believe that programming has the power to turn ideas into reality and I am committed to making a difference through software development.
-
-I'm currently focused on improving my skills by taking an advanced Java course to learn the ins and outs of the language, where I'm gaining valuable knowledge.
-
-If you want to know more about me or have any questions, feel free to get in touch 🚀
+If you'd like to know more about me or have any questions, feel free to get in touch. 🚀
 
 ## 🛠 &nbsp;Tech Stack
 
