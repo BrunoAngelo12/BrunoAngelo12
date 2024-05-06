@@ -34,6 +34,7 @@ If you'd like to know more about me or have any questions, feel free to get in t
 ### 👩‍💻 &nbsp;Back-End
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 👩‍💻 &nbsp;Versioning
 
