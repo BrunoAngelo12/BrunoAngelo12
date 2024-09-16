@@ -46,6 +46,7 @@ If you'd like to know more about me or have any questions, feel free to get in t
 
 ## 📌 &nbsp;Pinned Repositories
 [![jogoDaVelha](https://img.shields.io/badge/Jogo_da_velha_-059?style=for-the-badge&logo=java)](https://github.com/BrunoAngelo12/jogodavelha)
+[![Sistema Financeiro](https://img.shields.io/badge/Sistema_Financeiro_-059?style=for-the-badge&logo=java)](https://github.com/BrunoAngelo12/teste-TGID)
 
 ## 📊 &nbsp;Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoAngelo12&theme=transparent&bg_color=973&border_color=000C&show_icons=true&icon_color=000&title_color=FFF&text_color=FFF)
