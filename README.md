@@ -20,14 +20,13 @@ Hi there 👋🏻, Welcome!
 
 ***
 ### Hello! 👋
+My name is Bruno, and my passion for programming started a journey that now shapes my path as I pursue a degree in Computer Science. Despite my academic involvement, programming is where I find my true calling. I am determined to expand my knowledge in technology and am seeking my first opportunity as a developer, making a career transition into the programming world.
 
-My name is Bruno, and my passion for programming has sparked a journey that now shapes my path as I pursue a degree in Computer Science. Despite my academic involvement, my true passion lies in programming. I am determined to acquire comprehensive knowledge in the field of technology, seeking my first opportunity as a developer and making a career transition into the programming world.
+Since taking my first steps in this fascinating field, I participated in a Bootcamp for beginner programmers, where I immersed myself in the coding universe. After consolidating my skills in basic Java, I dedicated myself further by joining the Santander Bootcamp Backend Java 2023, where I refined my abilities, choosing Java as my main language.
 
-Since the early steps in this fascinating field, I took part in a Bootcamp for beginner programmers, immersing myself in the coding universe. After solidifying my skills in basic Java, I participated in the Santander Bootcamp Backend Java 2023 to refine my abilities, choosing Java as my preferred language.
+I deeply believe in the transformative power of technology and its ability to improve people's lives. My mission is to use my passion for programming to create solutions that enhance quality of life and contribute to a better world. I am committed to gaining the knowledge necessary to make a positive impact through technology.
 
-I deeply believe in the transformative power of technology. My mission is to apply this passion for programming to create solutions that enhance people's quality of life, contributing to making the world a better place. I am committed to acquiring knowledge that allows me to make a positive impact through technology.
-
-If you'd like to know more about me or have any questions, feel free to get in touch. 🚀
+If you'd like to know more about me or have any questions, I’d love to connect. Let's chat! 🚀
 
 ## 🛠 &nbsp;Tech Stack
 
