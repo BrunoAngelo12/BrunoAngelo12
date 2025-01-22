@@ -3,7 +3,7 @@ Hi there 👋🏻, Welcome!
 </h1>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=ecf05e47hf1hi1sk809oupxmmljkq25bqnzrp8ehprh82fz0&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif"/>
 </div>
 
 <h3 align="center">
