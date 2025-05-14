@@ -36,7 +36,9 @@ I believe in the transformative power of technology and am committed to creating
 #### Languages & Tools:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-66BB66?style=for-the-badge&logo=spring-boot&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) #### Version Control & Hosting:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-66BB66?style=for-the-badge&logo=spring-boot&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+
+#### Version Control & Hosting:
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -48,7 +50,7 @@ I believe in the transformative power of technology and am committed to creating
 * 💻 **[Jogo da Velha](https://github.com/BrunoAngelo12/jogodavelha)**
     * Um clássico jogo da velha implementado em Java. Ideal para demonstrar lógica de programação e estrutura básica.
 * 💰 **[Sistema Financeiro](https://github.com/BrunoAngelo12/teste-TGID)**
-    * Projeto de sistema financeiro utilizando Java e Spring Boot. Demonstra conceitos de API REST e persistência de dados.
+    * Projeto de sistema financeiro utilizando Java.
 
 ---
 
